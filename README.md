@@ -9,7 +9,25 @@ This repository documents hands-on labs, assignments, and selected research proj
 - **Responsible, Transparent, and Accountable AI (RTAI)** – Fairness, explainability, auditing, and governance-aware AI practices.
 
 ---
-<pre> ## Repository Structure ``` msc-ai-sustainable-development/ Deep-Learning/ Lab-01-CNNs/ Lab-02-RNNs/ Lab-03-Transformer-Exploration/ Applied-AI/ Lab-01-Climate-Prediction/ Lab-02-Energy-Optimization/ Lab-03-Urban-Heat-Analysis/ Responsible-Transparent-AI/ Lab-01-Fairness-Analysis/ Lab-02-Explainability-Models/ Lab-03-Audit-and-Transparency/ Research-Projects/ Project-01-Agentic-Behavior-Study/ Project-02-Policy-Driven-AI-Framework/ README.md ``` </pre>
+## Repository Structure
+
+msc-ai-sustainable-development/
+- Deep-Learning/
+    - Lab-01-CNNs/
+    - Lab-02-RNNs/
+    - Lab-03-Transformer-Exploration/
+- Applied-AI/
+    - Lab-01-Climate-Prediction/
+    - Lab-02-Energy-Optimization/
+    - Lab-03-Urban-Heat-Analysis/
+- Responsible-Transparent-AI/
+    - Lab-01-Fairness-Analysis/
+    - Lab-02-Explainability-Models/
+    - Lab-03-Audit-and-Transparency/
+- Research-Projects/
+    - Project-01-Agentic-Behavior-Study/
+    - Project-02-Policy-Driven-AI-Framework/
+- README.md
 
 ## How to Navigate
 
