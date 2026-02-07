@@ -24,9 +24,6 @@ msc-ai-sustainable-development/
     - Lab-01-Fairness-Analysis/
     - Lab-02-Explainability-Models/
     - Lab-03-Audit-and-Transparency/
-- Research-Projects/
-    - Project-01-Agentic-Behavior-Study/
-    - Project-02-Policy-Driven-AI-Framework/
 - README.md
 
 ## How to Navigate
