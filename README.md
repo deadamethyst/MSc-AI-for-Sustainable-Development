@@ -17,9 +17,10 @@ msc-ai-sustainable-development/
     - Lab-02-RNNs/
     - Lab-03-Transformer-Exploration/
 - Applied-AI/
-    - Lab-01-Climate-Prediction/
-    - Lab-02-Energy-Optimization/
-    - Lab-03-Urban-Heat-Analysis/
+    - Lab-01-Data Pre processing and pre processing pipelines 
+    - Lab-02-Cross Validation 
+    - Lab-03-Linear Models and Kernal methods (features > samples)
+    - Lab-04-Linear models, trees and ensemble methods (features < samples)
 - Responsible-Transparent-AI/
     - Lab-01-Fairness-Analysis/
     - Lab-02-Explainability-Models/
