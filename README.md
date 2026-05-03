@@ -13,18 +13,18 @@ This repository documents hands-on labs, assignments, and selected research proj
 
 msc-ai-sustainable-development/
 - Deep-Learning/
-    - Lab-01-CNNs/
-    - Lab-02-RNNs/
-    - Lab-03-Transformer-Exploration/
+    - CNNs/
+    - RNNs/
+    - Transformer-Exploration/
 - Applied-AI/
-    - Lab-01-Data Pre processing and pre processing pipelines 
-    - Lab-02-Cross Validation 
-    - Lab-03-Linear Models and Kernal methods (features > samples)
-    - Lab-04-Linear models, trees and ensemble methods (features < samples)
-- Responsible-Transparent-AI/
-    - Lab-01-Fairness-Analysis/
-    - Lab-02-Explainability-Models/
-    - Lab-03-Audit-and-Transparency/
+    - Data Pre processing and pre processing pipelines 
+    - Cross Validation 
+    - Linear Models and Kernal methods (features > samples)
+    - Linear models, trees and ensemble methods (features < samples)
+- Technical AI Safety/
+    - Fairness-Analysis/
+    - Adverserial robustness/
+    - Saliency Maps and Mechanistic Explainability/
 - README.md
 
 ## How to Navigate
@@ -42,7 +42,7 @@ msc-ai-sustainable-development/
 
 - **Deep Learning:** CNNs for image classification, RNNs for sequence modeling, transformer experimentation.  
 - **Applied AI:** Climate prediction models, energy optimization simulations, urban heat island analysis.  
-- **Responsible AI:** Fairness and bias analysis, model explainability, AI auditing, and governance-focused experiments.  
+- **Technical AI Safety:** Fairness and bias analysis, model explainability, AI auditing, and governance-focused experiments.  
 - **Research Projects:** Extended work beyond coursework, exploring agentic behavior under model compression and policy-aware AI frameworks.
 
 ---
